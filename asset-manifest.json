@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/personalwebsite/static/css/main.5b1fbd4c.css",
+    "main.js": "/personalwebsite/static/js/main.faa027ba.js",
+    "static/css/64.bba8fa55.chunk.css": "/personalwebsite/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/personalwebsite/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/personalwebsite/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/personalwebsite/static/js/769.bda0d7b7.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/personalwebsite/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/gcp.png": "/personalwebsite/static/media/gcp.1ef1d92908e5002db0c9.png",
+    "static/media/resume.pdf": "/personalwebsite/static/media/resume.9df589cda3e64e96ef39.pdf",
+    "static/media/Agustina.woff": "/personalwebsite/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/luminr.jpeg": "/personalwebsite/static/media/luminr.45bfe2e6db0c5f027191.jpeg",
+    "static/media/longe.png": "/personalwebsite/static/media/longe.716e0a2821e3a7068f9b.png",
+    "static/media/manOnTable.svg": "/personalwebsite/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/aws.png": "/personalwebsite/static/media/aws.d0e8ac54414d131b1823.png",
+    "static/media/unn.png": "/personalwebsite/static/media/unn.6300df0727f9dbb440e7.png",
+    "static/media/youtube.png": "/personalwebsite/static/media/youtube.5dd80d848dc3c33b829e.png",
+    "static/media/contactMailDark.svg": "/personalwebsite/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/personalwebsite/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/ehealth.png": "/personalwebsite/static/media/ehealth.f21d33376c2deb2ca3c5.png",
+    "static/media/ubc.jpg": "/personalwebsite/static/media/ubc.f159f2616b5f2b30ac30.jpg",
+    "static/media/skill.svg": "/personalwebsite/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/pwaLogo.webp": "/personalwebsite/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
+    "index.html": "/personalwebsite/index.html",
+    "static/media/talksCardBack.svg": "/personalwebsite/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.5b1fbd4c.css.map": "/personalwebsite/static/css/main.5b1fbd4c.css.map",
+    "main.faa027ba.js.map": "/personalwebsite/static/js/main.faa027ba.js.map",
+    "64.bba8fa55.chunk.css.map": "/personalwebsite/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/personalwebsite/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/personalwebsite/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/personalwebsite/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b1fbd4c.css",
+    "static/js/main.faa027ba.js"
+  ]
+}
